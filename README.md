@@ -1,19 +1,7 @@
+# Projetos de Análise de Dados
 
-# Olá! Eu sou Amanda
+Repositório destinado à organização e apresentação de projetos práticos desenvolvidos na área de Análise de Dados e BI.
 
-Estudante de Ciência da Computação no IF Goiano
+Aqui estão reunidos projetos que envolvem coleta, tratamento, exploração e análise de dados, criação de visualizações e desenvolvimento de dashboards, utilizando diferentes ferramentas e tecnologias.
 
-Interesse em Business Intelligence e Análise de Dados
-
-Conhecimentos:
-- Microsoft Power BI
-- Power Query
-- SQL
-- Python
-- Análise de Dados
-
-Neste perfil compartilho projetos desenvolvidos durante minha formação,
-com foco em análise de dados, dashboards e Business Intelligence.
-
-## Contato
-E-mail: amandacruvinelrv@gmail.com
+O objetivo é registrar minha evolução e aprendizado na área, por meio de projetos acadêmicos e pessoais.
